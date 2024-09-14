@@ -45,7 +45,7 @@
 <h3 align="left">⚡ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 & 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲</h3>
 
 <ul>
-  <li>📟 <strong>PLC Automation</strong> – Designed an industrial-level system to automate production lines using Siemens, omron PLCs</li>
+  <li>📟 <strong>PLC Automation</strong> – Designed an industrial-level system to automate production lines using Siemens, Omron PLCs</li>
   <li>🔧 <strong>Robotic Arm Control</strong> – Created a robotic arm with Arduino</li>
   <li>⚙️ <strong>Home Automation</strong> – Built a home automation system using Raspberry Pi</li>
 </ul>
