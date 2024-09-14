@@ -9,7 +9,7 @@
 <p align="center">
   👨‍🎓 <strong>𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰𝘀 & 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁</strong><br>
   ⭐ <strong>𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝗱 𝗶𝗻 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗮𝗹-𝗟𝗲𝘃𝗲𝗹 𝗣𝗟𝗖 𝗦𝘆𝘀𝘁𝗲𝗺𝘀</strong><br>
-  ⚡ <em>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗖++ & 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗔𝗜</em>
+  ⚡ <strong>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗖++ & 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗔𝗜</strong>
 </p>
 
 <br clear="both">
@@ -38,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
 <br clear="both">
