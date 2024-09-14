@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h1 align="center">🍅 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗥𝗩𝗡𝗔𝗢𝗠!</h1>
+<h1 align="center">🍅 𝗛𝗲𝗹𝗹𝗼</h1>
 
 <p align="center">
   👨‍🎓 <strong>𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰𝘀 & 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁</strong><br>
@@ -47,9 +47,9 @@
 <h3 align="left">⚡ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 & 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲</h3>
 
 <ul>
-  <li>📟 <strong>PLC Automation</strong> – Designed an industrial-level system to automate production lines using Siemens PLCs.</li>
-  <li>🔧 <strong>Robotic Arm Control</strong> – Created a robotic arm with Arduino for precision tasks in assembly lines.</li>
-  <li>⚙️ <strong>Home Automation</strong> – Built a home automation system using Raspberry Pi and integrated it with voice control.</li>
+  <li>📟 <strong>PLC Automation</strong> – Designed an industrial-level system to automate production lines using Siemens, omron PLCs</li>
+  <li>🔧 <strong>Robotic Arm Control</strong> – Created a robotic arm with Arduino</li>
+  <li>⚙️ <strong>Home Automation</strong> – Built a home automation system using Raspberry Pi</li>
 </ul>
 
 <br clear="both">
@@ -58,7 +58,7 @@
 
 <ul>
   <li>🧠 Deep Dive into C++ advanced topics, focusing on data structures and algorithms.</li>
-  <li>🤖 Exploring AI & Machine Learning integration with real-world hardware systems.</li>
+  <li>🤖 Exploring AI & Machine Learning</li>
 </ul>
 
 <div align="center">
@@ -67,4 +67,4 @@
 
 <br clear="both">
 
-<p align="center">Feel free to reach out if you're into electronics, programming, or want to talk about C++ struggles!</p>
+<p align="center"> </p>
